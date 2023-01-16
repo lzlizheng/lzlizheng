@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lzlizheng
+- Hi, I’m @lzlizheng
 - 👀 I’m interested in 数据产品经理
 - 🌱 I’m currently learning 数据产品经理
 - 💞️ I’m looking to collaborate on 数据产品经理
