@@ -1,3 +1,12 @@
+- 文件结构：
+
+```
+config ------------------- 用来配ssh代理，目前好像没啥用了
+gitcmd.txt --------------- 目前尝试过的所有翻墙push的命令
+muSSHKey ----------------- 用来配ssh代理，目前好像没啥用了
+muSSHKey.pub ------------- 用来配ssh代理，目前好像没啥用了
+```
+
 - 👀 Hi, I’m @lzlizheng
 - 👀 I’m interested in 数据产品经理
 - 🌱 I’m currently learning 数据产品经理
@@ -8,24 +17,6 @@
 lzlizheng/lzlizheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-太原理工大学 本科
-·计算机科学与技术学院 · 物联网专业 2016年毕业
-
-工作经历
-北京永航科技 职位：产品经理  2021.05-至今
-
-炫舞时代协同办公平台
-面向炫舞时代各个岗位的PM策划美术测试，提供月版本核心数据的在线协同支持，提效3倍以上。
-负责：需求收集，PRD全流程设计，多维表结构设计，迭代周期跟踪管理。
-
-校园招聘系统
-把原始的excel的PowerQuery上的工作流程整理迁移到多维表格，覆盖笔试、协同面试、offer谈判、offer发放等环节，给人事部的校招任务提效5倍以上。
-负责：需求收集，PRD全流程设计和管理，表结构设计，非代码的部分技术实现。
-
-代码检查服务
-对C++/lua/C#代码仓库进行全量和即时的检查，对接各游戏业务部门。
-负责：需求收集，交互流程设计，文档维护，迭代周期跟踪管理。
 
 北京永航科技 职位：开发  2018.04-2021.05
 
