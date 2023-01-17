@@ -47,4 +47,9 @@ C++电子签章、电子公文后台开发
 服务器端:集成密码机开发，制章库维护。
 (3)相关技术：C/C++、Linux、com组件、qt、FreeImage等。
 
-在易转换中可将markdown转换成PDF：https://www.easeconvert.com/markdown-to-pdf/#
+
+<!-- - 在易转换中可将markdown转换成PDF：https://www.easeconvert.com/markdown-to-pdf/#
+- 结论：放弃用markdown排版了，只有干货的个人优势和项目经历需要用markdown来写，主要是为了使用git进行分支管理。因为格式管理基本没法用markdown，原因如下：
+（1）有的语法编辑器不支持
+（2）有的语法转pdf的软件不支持
+综上，对转pdf支持的最到位的就是word了，所见即所得。 -->
