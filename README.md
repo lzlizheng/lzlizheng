@@ -5,6 +5,7 @@ config ------------------- 用来配ssh代理，目前好像没啥用了
 gitcmd.txt --------------- 目前尝试过的所有翻墙push的命令
 muSSHKey ----------------- 用来配ssh代理，目前好像没啥用了
 muSSHKey.pub ------------- 用来配ssh代理，目前好像没啥用了
+貌似每次push之前执行一下gitcmd.txt里的命令，就能push成功
 ```
 
 - 👀 Hi, I’m @lzlizheng
