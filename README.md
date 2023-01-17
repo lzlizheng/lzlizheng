@@ -46,3 +46,5 @@ C++电子签章、电子公文后台开发
 客户端:Usbkey集成开发，html签章维护，客户端发章com组件维护，pdf、ofd 等板式文件盖章签名、文档解析、数字水印等。
 服务器端:集成密码机开发，制章库维护。
 (3)相关技术：C/C++、Linux、com组件、qt、FreeImage等。
+
+在易转换中可将markdown转换成PDF：https://www.easeconvert.com/markdown-to-pdf/#
